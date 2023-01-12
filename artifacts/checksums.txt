@@ -1,0 +1,1 @@
+786f03bf78ad880355a0741008d20454b41b3a7b41ec540f29c2235d45b9d6fb  boolean_contract_caller-aarch64.wasm
