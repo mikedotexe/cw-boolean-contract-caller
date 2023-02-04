@@ -1,1 +1,1 @@
-dfd558f40332efe9bedbd9bb1a2aec060fa0099dab69a3d2242d861d159fe384  ./target/wasm32-unknown-unknown/release/boolean_contract_caller.wasm
+7cc6e3c165b9889830e0a63da421e435f9bf8e4b0b47913f0a60e03b9f081fc8  ./target/wasm32-unknown-unknown/release/boolean_contract_caller.wasm

@@ -22,12 +22,15 @@ path = "schema-maker/schema.rs"
 cosmwasm-std = "1.1.8"
 cosmwasm-schema = "1.1.8"
 cw2 = "0.16.0"
+croncat-sdk-tasks = "0.1.0"
+croncat-sdk-factory = "0.1.0"
+cw20 = { version = "0.16.0" }
+croncat-mod-generic = { version = "0.1.0", features = ["library"] }
 schemars = "0.8.11"
 # Cannot seem to upgrade to 1.0.0 version
 # Tracking this issue: https://github.com/CosmWasm/cw-storage-plus/issues/19
 cw-storage-plus = "0.16.0"
 thiserror = { version = "1.0.37" }
-cw-croncat-core = { version = "0.1.5" }
 
 [dev-dependencies]
 # no dev dependencies yet, but consider cw-multi-test
