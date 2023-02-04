@@ -13,6 +13,6 @@ pub fn execute(
     msg: ExecuteMsg,
 ) -> Result<Response, ContractError> {
     match msg {
-        ExecuteMsg::MakeCroncatTask { croncat_manager_address, boolean_address } => make_croncat_task::execute(deps, env, info, croncat_manager_address, boolean_address),
+        ExecuteMsg::MakeCroncatTask { croncat_factory_address, boolean_address } => make_croncat_task::execute(deps, env, info, croncat_factory_address, boolean_address),
     }
 }
